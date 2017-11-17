@@ -1,0 +1,28 @@
+
+
+public abstract class Rute {
+
+	Rad rad;
+	Kolonne kolonne;
+	Boks boks;
+	Brett brett;
+	Rute neste;
+
+	int nummer;
+	int antallLosninger = 0;
+
+	Rute(int nummer, Kolonne kolonne, Rad rad, Boks boks, Brett brett) {
+		this.nummer = nummer;
+		this.kolonne = kolonne;
+		this.rad = rad;
+		this.boks = boks;
+		this.brett = brett;
+	}
+	public void settVerdi(int i) {
+		nummer = i;
+	}
+	/*
+	 * metode som finner l�sninger
+	 */
+	abstract void settTallMegOgResten();
+}
