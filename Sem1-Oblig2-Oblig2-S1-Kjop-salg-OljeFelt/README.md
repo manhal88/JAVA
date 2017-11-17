@@ -1,3 +1,3 @@
 JAVA
 ====
-Lære om Array, switch&case, "for" løkker
+Lære om Array, switch & case, "for" løkker, if & else
