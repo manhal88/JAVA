@@ -1,4 +1,4 @@
 JAVA
 ====
-# Mine oppgaver Fra Universitetet i Oslo.
-# Fritidsoppgaver kommer snart. :)
+-Mine oppgaver Fra Universitetet i Oslo.
+-Fritidsoppgaver kommer snart. :)
