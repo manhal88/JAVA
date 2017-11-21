@@ -1,4 +1,4 @@
 JAVA
 ====
-<h2>Mine oppgaver Fra Universitetet i Oslo.</h2>
-<h3>Fritidsoppgaver kommer snart. :)</h3>
+<h4>Mine oppgaver Fra Universitetet i Oslo.</h4>
+<h4>Fritidsoppgaver kommer snart. :)</h4>
