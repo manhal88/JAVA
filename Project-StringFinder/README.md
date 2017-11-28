@@ -1,0 +1,3 @@
+StringFinder
+============
+lære om BoyerMooreHorspool.
