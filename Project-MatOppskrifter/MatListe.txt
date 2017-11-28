@@ -1,0 +1,21 @@
+* Mat Opskriter *
+lasagne;løk, kjøtt, hvitløk;bland alt sammen;
+pasta med kjøttboller og tomatsaus; ; ;
+kylling rød karri; ; ;
+kjøttkaker i brun saus; ; ;
+kylling tikka masala; ; ;
+mango kylling; ; ;
+pasta med pestosaus; ; ;
+pasta bolognese; ; ;
+chili con carne; ; ;
+enchiladas; ; ;
+taco;løk, lefse, kjøtt, hvitløk;bland alt sammen;
+blomkålsuppe; ; ;
+blomkålgryte; ; ;
+pizza; ; ;
+linsesuppe; ; ;
+indisk hønsesuppe; ; ;
+fisk med sur masala; ; ;
+torsk med soyasmør; ; ;
+røbbetgryte; ; ;
+potetsuppe;løk, kjøtt, hvitløk;bland alt sammen;
