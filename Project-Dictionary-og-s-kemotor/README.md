@@ -1,5 +1,6 @@
 How to use the program:
--the interface of my program:
+
+the interface of my program:
 
 
 	***   Choose one from the following:   ***
